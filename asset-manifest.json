@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/djigui-app/static/css/main.7835afa4.css",
+    "main.js": "/djigui-app/static/js/main.6bd2daef.js",
+    "static/js/787.ebf66c7f.chunk.js": "/djigui-app/static/js/787.ebf66c7f.chunk.js",
+    "index.html": "/djigui-app/index.html",
+    "main.7835afa4.css.map": "/djigui-app/static/css/main.7835afa4.css.map",
+    "main.6bd2daef.js.map": "/djigui-app/static/js/main.6bd2daef.js.map",
+    "787.ebf66c7f.chunk.js.map": "/djigui-app/static/js/787.ebf66c7f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7835afa4.css",
+    "static/js/main.6bd2daef.js"
+  ]
+}
